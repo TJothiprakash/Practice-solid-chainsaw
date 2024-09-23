@@ -4,15 +4,37 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f6bc3c6f-bdfe-4496-8a46-b60fc51e16c8" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Test.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/urlshortener/Hashlongurl.java" afterDir="false" />
+    <list default="true" id="f6bc3c6f-bdfe-4496-8a46-b60fc51e16c8" name="Changes" comment="basics done, need to convert to springboot app">
+      <change afterPath="$PROJECT_DIR$/src/dsa_assignments_kunal/ArrayForm.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/dsa_assignments_kunal/sept23/CellValue.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/dsa_assignments_kunal/sept23/CountItems.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/dsa_assignments_kunal/sept23/DiagnalSum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/dsa_assignments_kunal/sept23/EvnNumbers.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/dsa_assignments_kunal/sept23/HeighestAltitude.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/dsa_assignments_kunal/sept23/ImageFlip.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/dsa_assignments_kunal/sept23/LuckyNumber.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/dsa_assignments_kunal/sept23/MatrixRotation.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/dsa_assignments_kunal/sept23/ReshapeMatrix.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/dsa_assignments_kunal/sept23/TransposeMatrix.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/dsa_assignments_kunal/sept23/TwoSum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/dsa_assignments_kunal/sept23/UniqueIntegerSum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/dsa_assignments_kunal/sept_19/Practice.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/dsa_assignments_kunal/sept_20/Practice.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/dsa_assignments_kunal/sept_20/Practice2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/dsa_assignments_kunal/sept_21/Practice.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/dsa_assignments_kunal/sept_22/ArrayPermutation.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/dsa_assignments_kunal/sept_22/ConcatenationOfArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/dsa_assignments_kunal/sept_22/GreatestNumber.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/dsa_assignments_kunal/sept_22/NoofGoodPairs.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/dsa_assignments_kunal/sept_22/Panagram.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/dsa_assignments_kunal/sept_22/Practice.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/dsa_assignments_kunal/sept_22/RichestCustomerWealth.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/dsa_assignments_kunal/sept_22/RunningSumOfArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/dsa_assignments_kunal/sept_22/ShuffleArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/dsa_assignments_kunal/sept_22/SmallerNumber.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/dsa_assignments_kunal/sept_22/TargetArray.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -29,15 +51,17 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 0
-}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 0
+}</component>
   <component name="ProjectId" id="2lS0Oc5GjdKlh2kVwLMUF6bz89k" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
+    <option name="showMembers" value="true" />
     <option name="showVisibilityIcons" value="true" />
+    <option name="sortKey" value="BY_TIME_ASCENDING" />
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
@@ -45,16 +69,71 @@
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "com.codeium.enabled": "true",
     "git-widget-placeholder": "master",
-    "ignore.virus.scanning.warn.message": "true"
+    "ignore.virus.scanning.warn.message": "true",
+    "project.structure.last.edited": "Project",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.0"
   }
 }]]></component>
-  <component name="RunManager">
-    <configuration name="Hashlongurl" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="urlshortener.Hashlongurl" />
+  <component name="RunManager" selected="Application.ReshapeMatrix">
+    <configuration name="LuckyNumber" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="dsa_assignments_kunal.sept23.LuckyNumber" />
       <module name="Test" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="urlshortener.*" />
+          <option name="PATTERN" value="dsa_assignments_kunal.sept23.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MatrixRotation" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="dsa_assignments_kunal.sept23.MatrixRotation" />
+      <module name="Test" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="dsa_assignments_kunal.sept23.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ReshapeMatrix" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="dsa_assignments_kunal.sept23.ReshapeMatrix" />
+      <module name="Test" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="dsa_assignments_kunal.sept23.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TwoSum" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="dsa_assignments_kunal.sept23.TwoSum" />
+      <module name="Test" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="dsa_assignments_kunal.sept23.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="UniqueIntegerSum" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="dsa_assignments_kunal.sept23.UniqueIntegerSum" />
+      <module name="Test" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="dsa_assignments_kunal.sept23.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -64,7 +143,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Hashlongurl" />
+        <item itemvalue="Application.ReshapeMatrix" />
+        <item itemvalue="Application.LuckyNumber" />
+        <item itemvalue="Application.UniqueIntegerSum" />
+        <item itemvalue="Application.TwoSum" />
+        <item itemvalue="Application.MatrixRotation" />
       </list>
     </recent_temporary>
   </component>
@@ -77,6 +160,30 @@
       <option name="presentableId" value="Default" />
       <updated>1725158141467</updated>
     </task>
+    <task id="LOCAL-00001" summary="basics done, need to convert to springboot app">
+      <option name="closed" value="true" />
+      <created>1725161673441</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1725161673442</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="basics done, need to convert to springboot app" />
+    <option name="LAST_COMMIT_MESSAGE" value="basics done, need to convert to springboot app" />
   </component>
 </project>
