@@ -4,38 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f6bc3c6f-bdfe-4496-8a46-b60fc51e16c8" name="Changes" comment="basics done, need to convert to springboot app">
-      <change afterPath="$PROJECT_DIR$/src/dsa_assignments_kunal/ArrayForm.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/dsa_assignments_kunal/sept23/CellValue.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/dsa_assignments_kunal/sept23/CountItems.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/dsa_assignments_kunal/sept23/DiagnalSum.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/dsa_assignments_kunal/sept23/EvnNumbers.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/dsa_assignments_kunal/sept23/HeighestAltitude.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/dsa_assignments_kunal/sept23/ImageFlip.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/dsa_assignments_kunal/sept23/LuckyNumber.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/dsa_assignments_kunal/sept23/MatrixRotation.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/dsa_assignments_kunal/sept23/ReshapeMatrix.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/dsa_assignments_kunal/sept23/TransposeMatrix.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/dsa_assignments_kunal/sept23/TwoSum.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/dsa_assignments_kunal/sept23/UniqueIntegerSum.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/dsa_assignments_kunal/sept_19/Practice.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/dsa_assignments_kunal/sept_20/Practice.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/dsa_assignments_kunal/sept_20/Practice2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/dsa_assignments_kunal/sept_21/Practice.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/dsa_assignments_kunal/sept_22/ArrayPermutation.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/dsa_assignments_kunal/sept_22/ConcatenationOfArray.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/dsa_assignments_kunal/sept_22/GreatestNumber.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/dsa_assignments_kunal/sept_22/NoofGoodPairs.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/dsa_assignments_kunal/sept_22/Panagram.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/dsa_assignments_kunal/sept_22/Practice.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/dsa_assignments_kunal/sept_22/RichestCustomerWealth.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/dsa_assignments_kunal/sept_22/RunningSumOfArray.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/dsa_assignments_kunal/sept_22/ShuffleArray.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/dsa_assignments_kunal/sept_22/SmallerNumber.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/dsa_assignments_kunal/sept_22/TargetArray.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="f6bc3c6f-bdfe-4496-8a46-b60fc51e16c8" name="Changes" comment="basics done, need to convert to springboot app" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
