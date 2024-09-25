@@ -5,11 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="f6bc3c6f-bdfe-4496-8a46-b60fc51e16c8" name="Changes" comment="basics done, need to convert to springboot app">
-      <change afterPath="$PROJECT_DIR$/src/dsa_assignments_kunal/sept_24/AddBinary.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/dsa_assignments_kunal/sept_24/ExcelSheetColumn.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/dsa_assignments_kunal/sept_24/Mathio.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/dsa_assignments_kunal/sept_24/MaxProductofThreeNumbers.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/dsa_assignments_kunal/sept_24/SelfDividingNumbers.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/dsa_assignments_kunal/sept_25/Practice.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
