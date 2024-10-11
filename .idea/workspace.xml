@@ -5,8 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="f6bc3c6f-bdfe-4496-8a46-b60fc51e16c8" name="Changes" comment="basics done, need to convert to springboot app">
+      <change afterPath="$PROJECT_DIR$/src/dsa_assignments_kunal/oct_11/Patterns.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/dsa_assignments_kunal/oct_11/Test.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/dsa_assignments_kunal/sept_26/PracticePattern11_15.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/dsa_assignments_kunal/sept_26/PracticePattern11_15.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -51,6 +52,7 @@
   "keyToString": {
     "Application.CustomArrayList.executor": "Debug",
     "Application.DefangIPaddress.executor": "Run",
+    "Application.Patterns.executor": "Run",
     "Application.PracticePattern11_15.executor": "Run",
     "Application.ShuffleString.executor": "Run",
     "Application.Test.executor": "Run",
@@ -73,13 +75,13 @@
       <recent name="Test" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.PracticePattern11_15">
-    <configuration name="CustomArrayList" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Test.CustomArrayList" />
+  <component name="RunManager" selected="Application.Test">
+    <configuration name="DefangIPaddress" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="dsa_assignments_kunal.oct_05.DefangIPaddress" />
       <module name="Test" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Test.*" />
+          <option name="PATTERN" value="dsa_assignments_kunal.oct_05.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -87,12 +89,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="DefangIPaddress" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="dsa_assignments_kunal.oct_05.DefangIPaddress" />
+    <configuration name="Patterns" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="dsa_assignments_kunal.oct_11.Patterns" />
       <module name="Test" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="dsa_assignments_kunal.oct_05.*" />
+          <option name="PATTERN" value="dsa_assignments_kunal.oct_11.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -127,11 +129,11 @@
       </method>
     </configuration>
     <configuration name="Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Test.Test" />
+      <option name="MAIN_CLASS_NAME" value="dsa_assignments_kunal.oct_11.Test" />
       <module name="Test" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Test.*" />
+          <option name="PATTERN" value="dsa_assignments_kunal.oct_11.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -141,11 +143,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Test" />
+        <item itemvalue="Application.Patterns" />
         <item itemvalue="Application.PracticePattern11_15" />
         <item itemvalue="Application.ShuffleString" />
         <item itemvalue="Application.DefangIPaddress" />
-        <item itemvalue="Application.CustomArrayList" />
-        <item itemvalue="Application.Test" />
       </list>
     </recent_temporary>
   </component>
